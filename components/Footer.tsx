@@ -48,7 +48,7 @@ const Footer = () => {
       </div>
 
       <div className="w-full bg-gray-700 p-[.6rem] text-center font[700] text-white  ">
-        <p>Copyright El’Terreno Projects Limited 2022</p>
+        <p>Copyright El’Terreno Projects Limited 2023</p>
       </div>
     </div>
   );
